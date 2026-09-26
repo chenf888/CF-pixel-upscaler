@@ -182,7 +182,7 @@ for (let k = 0; k < scale; k++)
 ## 代码结构
 
 ```
-pixel-upscaler/
+CF-pixel-upscaler/
 ├── package.json
 ├── tsconfig.json
 ├── vitest.config.ts
