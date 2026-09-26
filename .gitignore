@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.raw
+*.log
+.DS_Store
+
+# 测试临时产物
+coverage/
+tmp/
+*.tmp
+pixel-upscaler-*_out.png
